@@ -1,0 +1,200 @@
+campaign_id,advertiser_id,campaign_type,billing_rate,targeting_params
+C_1,ADV_40,CPI,300.0,{}
+C_2,ADV_51,CPI,300.0,{}
+C_3,ADV_67,CPC,1.67,{}
+C_4,ADV_7,CPM,24.29,{}
+C_5,ADV_12,CPC,1.59,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_6,ADV_19,CPC,2.83,{}
+C_7,ADV_69,CPM,14.64,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_8,ADV_16,CPC,2.06,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_9,ADV_8,CPI,120.0,{}
+C_10,ADV_56,CPC,2.23,{}
+C_11,ADV_22,CPI,300.0,{}
+C_12,ADV_54,CPC,2.45,{}
+C_13,ADV_6,CPM,19.0,{}
+C_14,ADV_31,CPC,4.44,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_15,ADV_23,CPM,5.14,{}
+C_16,ADV_52,CPM,19.02,{}
+C_17,ADV_54,CPC,3.06,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_18,ADV_41,CPI,120.0,{}
+C_19,ADV_50,CPI,300.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_20,ADV_23,CPI,120.0,{}
+C_21,ADV_36,CPC,2.7,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_22,ADV_45,CPM,7.75,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_23,ADV_28,CPI,300.0,{}
+C_24,ADV_3,CPM,7.78,{}
+C_25,ADV_63,CPC,4.61,{}
+C_26,ADV_38,CPM,21.34,{}
+C_27,ADV_26,CPI,100.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_28,ADV_8,CPC,1.86,{}
+C_29,ADV_5,CPM,18.48,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_30,ADV_66,CPC,4.66,{}
+C_31,ADV_35,CPC,2.59,{}
+C_32,ADV_21,CPM,14.88,{}
+C_33,ADV_13,CPC,2.87,{}
+C_34,ADV_57,CPC,3.21,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_35,ADV_32,CPC,4.49,{}
+C_36,ADV_56,CPC,2.92,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_37,ADV_31,CPC,2.17,{}
+C_38,ADV_69,CPI,100.0,{}
+C_39,ADV_26,CPI,300.0,{}
+C_40,ADV_46,CPM,23.13,{}
+C_41,ADV_45,CPI,300.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_42,ADV_29,CPI,300.0,{}
+C_43,ADV_69,CPC,4.56,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_44,ADV_1,CPC,2.13,{}
+C_45,ADV_37,CPI,100.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_46,ADV_21,CPI,300.0,{}
+C_47,ADV_64,CPM,5.41,{}
+C_48,ADV_4,CPC,2.73,{}
+C_49,ADV_63,CPC,1.77,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_50,ADV_66,CPC,2.16,{}
+C_51,ADV_19,CPI,120.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_52,ADV_6,CPI,120.0,{}
+C_53,ADV_32,CPI,100.0,{}
+C_54,ADV_48,CPI,300.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_55,ADV_51,CPM,11.28,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_56,ADV_49,CPC,4.21,{}
+C_57,ADV_50,CPC,2.83,{}
+C_58,ADV_14,CPM,11.85,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_59,ADV_23,CPI,120.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_60,ADV_22,CPM,18.97,{}
+C_61,ADV_49,CPC,4.93,{}
+C_62,ADV_65,CPM,16.68,{}
+C_63,ADV_26,CPC,2.44,{}
+C_64,ADV_54,CPC,2.75,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_65,ADV_38,CPC,4.23,{}
+C_66,ADV_17,CPI,300.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_67,ADV_42,CPI,300.0,{}
+C_68,ADV_18,CPI,100.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_69,ADV_66,CPC,3.59,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_70,ADV_66,CPC,3.83,{}
+C_71,ADV_58,CPI,120.0,{}
+C_72,ADV_35,CPI,100.0,{}
+C_73,ADV_37,CPI,100.0,{}
+C_74,ADV_22,CPC,3.46,{}
+C_75,ADV_60,CPM,18.57,{}
+C_76,ADV_67,CPM,10.09,{}
+C_77,ADV_60,CPM,13.19,{}
+C_78,ADV_50,CPI,300.0,{}
+C_79,ADV_4,CPM,17.93,{}
+C_80,ADV_45,CPC,3.2,{}
+C_81,ADV_8,CPC,4.06,{}
+C_82,ADV_34,CPC,2.5,{}
+C_83,ADV_1,CPI,120.0,{}
+C_84,ADV_13,CPI,100.0,{}
+C_85,ADV_64,CPI,300.0,{}
+C_86,ADV_45,CPC,3.48,{}
+C_87,ADV_19,CPM,20.16,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_88,ADV_37,CPI,300.0,{}
+C_89,ADV_38,CPM,18.52,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_90,ADV_30,CPM,9.56,{}
+C_91,ADV_44,CPI,300.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_92,ADV_43,CPM,13.87,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_93,ADV_50,CPI,120.0,{}
+C_94,ADV_45,CPI,100.0,{}
+C_95,ADV_60,CPI,100.0,{}
+C_96,ADV_34,CPI,120.0,{}
+C_97,ADV_49,CPC,2.74,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_98,ADV_22,CPM,17.28,{}
+C_99,ADV_40,CPM,6.6,{}
+C_100,ADV_33,CPI,100.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_101,ADV_27,CPM,18.2,{}
+C_102,ADV_49,CPC,4.92,{}
+C_103,ADV_64,CPI,100.0,{}
+C_104,ADV_27,CPM,12.41,{}
+C_105,ADV_14,CPM,22.97,{}
+C_106,ADV_19,CPM,10.59,{}
+C_107,ADV_12,CPC,2.26,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_108,ADV_6,CPC,4.35,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_109,ADV_4,CPI,300.0,{}
+C_110,ADV_21,CPI,100.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_111,ADV_38,CPI,100.0,{}
+C_112,ADV_70,CPI,100.0,{}
+C_113,ADV_7,CPM,21.37,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_114,ADV_64,CPM,23.95,{}
+C_115,ADV_61,CPM,20.01,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_116,ADV_19,CPM,7.56,{}
+C_117,ADV_39,CPI,100.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_118,ADV_10,CPI,120.0,{}
+C_119,ADV_5,CPI,120.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_120,ADV_1,CPC,1.72,{}
+C_121,ADV_41,CPC,1.83,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_122,ADV_60,CPI,100.0,{}
+C_123,ADV_23,CPI,100.0,{}
+C_124,ADV_36,CPM,21.94,{}
+C_125,ADV_60,CPI,100.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_126,ADV_6,CPI,100.0,{}
+C_127,ADV_49,CPM,12.44,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_128,ADV_10,CPI,300.0,{}
+C_129,ADV_28,CPC,3.35,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_130,ADV_57,CPM,17.82,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_131,ADV_70,CPI,300.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_132,ADV_18,CPC,2.97,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_133,ADV_57,CPM,8.55,{}
+C_134,ADV_12,CPC,4.51,{}
+C_135,ADV_7,CPI,120.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_136,ADV_40,CPC,3.8,{}
+C_137,ADV_4,CPI,300.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_138,ADV_45,CPI,120.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_139,ADV_70,CPM,14.61,{}
+C_140,ADV_8,CPI,300.0,{}
+C_141,ADV_32,CPC,2.28,{}
+C_142,ADV_25,CPI,300.0,{}
+C_143,ADV_16,CPI,300.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_144,ADV_15,CPM,10.97,{}
+C_145,ADV_22,CPC,3.13,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_146,ADV_54,CPM,15.37,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_147,ADV_52,CPM,14.99,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_148,ADV_13,CPC,3.11,{}
+C_149,ADV_17,CPM,14.88,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_150,ADV_60,CPC,3.44,{}
+C_151,ADV_70,CPC,4.51,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_152,ADV_60,CPI,300.0,{}
+C_153,ADV_8,CPM,22.42,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_154,ADV_66,CPM,23.59,{}
+C_155,ADV_45,CPI,300.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_156,ADV_56,CPC,1.76,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_157,ADV_60,CPI,120.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_158,ADV_28,CPM,23.69,{}
+C_159,ADV_9,CPM,14.23,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_160,ADV_50,CPI,300.0,{}
+C_161,ADV_32,CPM,20.04,{}
+C_162,ADV_55,CPM,18.04,{}
+C_163,ADV_54,CPM,20.42,{}
+C_164,ADV_61,CPC,2.68,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_165,ADV_1,CPI,300.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_166,ADV_57,CPC,3.07,{}
+C_167,ADV_61,CPC,3.08,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_168,ADV_35,CPM,12.31,{}
+C_169,ADV_60,CPC,3.13,{}
+C_170,ADV_11,CPC,2.5,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_171,ADV_11,CPI,100.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_172,ADV_2,CPC,1.62,{}
+C_173,ADV_13,CPM,15.61,{}
+C_174,ADV_42,CPC,2.57,{}
+C_175,ADV_21,CPM,12.28,{}
+C_176,ADV_21,CPM,11.63,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_177,ADV_27,CPM,24.67,{}
+C_178,ADV_61,CPC,2.71,{}
+C_179,ADV_48,CPI,100.0,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_180,ADV_68,CPC,2.61,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_181,ADV_19,CPC,3.64,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_182,ADV_10,CPM,14.16,{}
+C_183,ADV_20,CPC,4.38,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_184,ADV_12,CPM,20.65,{}
+C_185,ADV_52,CPM,15.73,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_186,ADV_10,CPM,19.63,{}
+C_187,ADV_32,CPI,100.0,{}
+C_188,ADV_39,CPM,23.56,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_189,ADV_27,CPC,4.28,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_190,ADV_23,CPC,4.06,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_191,ADV_50,CPC,4.62,{}
+C_192,ADV_13,CPC,4.69,{}
+C_193,ADV_47,CPI,100.0,"{""state"":[""MH""], ""gender"":[""f""]}"
+C_194,ADV_8,CPM,13.58,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_195,ADV_62,CPI,300.0,{}
+C_196,ADV_25,CPC,3.97,{}
+C_197,ADV_44,CPC,2.49,"{""state"":[""KA"",""TN""], ""phone_price_range"":[""low""]}"
+C_198,ADV_15,CPC,1.89,{}
+C_199,ADV_51,CPM,16.32,{}
