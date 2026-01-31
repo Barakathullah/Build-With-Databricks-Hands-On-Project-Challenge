@@ -81,4 +81,4 @@ The Databricks SQL Dashboard provides real-time visibility into:
 
     Governance: Unity Catalog (Enabled).
 
-    Storage: Delta Lake (ACID enabled).
+
